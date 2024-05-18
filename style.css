@@ -1,0 +1,27 @@
+body {
+    padding: 150px;
+    background-color: black;
+}
+
+
+.all {
+    text-align: center;
+    border: 5px solid white;
+    background-color: grey;
+    height: 250px;
+}
+
+.input {
+    width: 500px;
+    height: 70px;
+    margin-top: 30px;
+}
+
+button {
+    padding: 20px;
+}
+
+.allbtn {
+    word-spacing: 10px;
+    margin-top: 20px;
+}
